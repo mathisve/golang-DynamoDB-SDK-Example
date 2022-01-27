@@ -12,7 +12,7 @@ Video in where I go over them one by one:
 ## Quite a bit has changed about the code!
 I noticed the code I wrote in the video was **perfect for explaining DynamoDB concepts**, but not so much for using it in a production environment. 
 This is why I have slightly updated the code, but most of the pure DynamoDB related functions should be roughly the same.
-When in doubt, feel free to join our [Discord](https://discord.mathisvaneetvelde.com) server and ask questions!
+When in doubt, feel free ask questions!
 
 Furthermore, I highly recommend using DynamoDB Attributes instead of writing everything explicitly.
 It will make your code a lot more portable and clean!
